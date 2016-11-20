@@ -1,0 +1,16 @@
+D:\ConsoleAPP\WpfMVVM\WpfMVVM\bin\Debug\WpfMVVM.exe.config
+D:\ConsoleAPP\WpfMVVM\WpfMVVM\bin\Debug\WpfMVVM.exe
+D:\ConsoleAPP\WpfMVVM\WpfMVVM\bin\Debug\WpfMVVM.pdb
+D:\ConsoleAPP\WpfMVVM\WpfMVVM\obj\Debug\WpfMVVM.csprojResolveAssemblyReference.cache
+D:\ConsoleAPP\WpfMVVM\WpfMVVM\obj\Debug\View\View_Main.g.cs
+D:\ConsoleAPP\WpfMVVM\WpfMVVM\obj\Debug\App.g.cs
+D:\ConsoleAPP\WpfMVVM\WpfMVVM\obj\Debug\WpfMVVM_MarkupCompile.cache
+D:\ConsoleAPP\WpfMVVM\WpfMVVM\obj\Debug\WpfMVVM_MarkupCompile.lref
+D:\ConsoleAPP\WpfMVVM\WpfMVVM\obj\Debug\View\View_Main.baml
+D:\ConsoleAPP\WpfMVVM\WpfMVVM\obj\Debug\WpfMVVM.g.resources
+D:\ConsoleAPP\WpfMVVM\WpfMVVM\obj\Debug\WpfMVVM.Properties.Resources.resources
+D:\ConsoleAPP\WpfMVVM\WpfMVVM\obj\Debug\WpfMVVM.csproj.GenerateResource.Cache
+D:\ConsoleAPP\WpfMVVM\WpfMVVM\obj\Debug\WpfMVVM.exe
+D:\ConsoleAPP\WpfMVVM\WpfMVVM\obj\Debug\WpfMVVM.pdb
+D:\ConsoleAPP\WpfMVVM\WpfMVVM\obj\Debug\View\View_MVVMExample.g.cs
+D:\ConsoleAPP\WpfMVVM\WpfMVVM\obj\Debug\View\View_MVVMExample.baml
